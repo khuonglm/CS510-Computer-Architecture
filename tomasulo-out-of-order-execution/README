@@ -1,0 +1,4 @@
+To build, type "make".
+To run with a sample trace, type "./procsim < traces/gcc.100k.trace".
+Fill out functions in "procsim.cpp" to complete this project.
+Note that you are only allowed to change "procsim.cpp" and "procsim.hpp".
